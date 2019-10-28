@@ -1,4 +1,4 @@
-// implement your API here
+// implement your API here.
 const db = require('./data/db')
 console.log('this is working');
 
